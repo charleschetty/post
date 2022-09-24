@@ -8,7 +8,7 @@ module.exports = {
   //],
   title: 'Charles Chetty Blog',
   description: 'Charles Chetty 个人博客',
-  base: '/blog/',
+  base: '/post/',
   shouldPrefetch: (name) => {
     return name.includes('vendors~') || name.includes('layout-')
   },
