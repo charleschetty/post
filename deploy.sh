@@ -4,7 +4,7 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:charleschetty/blog.git master:gh-pages
+git push -f git@github.com:charleschetty/post.git master:gh-pages
 
 cd ..
 cd ..
@@ -12,4 +12,4 @@ cd ..
 
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:charleschetty/blog.git master
+git push -f git@github.com:charleschetty/post.git master
