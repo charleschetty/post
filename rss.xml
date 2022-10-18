@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Charles Chetty Blog</title>
+        <link>https://charleschetty.github.io/post/</link>
+        <description>Charles Chetty 个人博客</description>
+        <lastBuildDate>Tue, 18 Oct 2022 05:46:05 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+        <atom:link href="https://charleschetty.github.io/post/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Arch基本使用]]></title>
+            <link>https://charleschetty.github.io/post/posts/Untitled.html</link>
+            <guid>https://charleschetty.github.io/post/posts/Untitled.html</guid>
+            <pubDate>Sat, 23 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Arch Linux + i3wm 基本环境配置]]></description>
+            <enclosure url="https://raw.githubusercontent.com/charleschetty/picturebed/main/picture/20e6af89523e5d34.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[书籍记录]]></title>
+            <link>https://charleschetty.github.io/post/posts/shu.html</link>
+            <guid>https://charleschetty.github.io/post/posts/shu.html</guid>
+            <pubDate>Tue, 26 Apr 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[记录一下学习过程]]></description>
+        </item>
+        <item>
+            <title><![CDATA[基本环境配置]]></title>
+            <link>https://charleschetty.github.io/post/posts/demo-markdowm.html</link>
+            <guid>https://charleschetty.github.io/post/posts/demo-markdowm.html</guid>
+            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[简单记录一下自己的日常学习娱乐环境]]></description>
+            <enclosure url="https://raw.githubusercontent.com/charleschetty/picturebed/main/picture/Screenshot_20220331_224520.png">
+            </enclosure>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,32 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Charles Chetty Blog",
+    "home_page_url": "https://charleschetty.github.io/post/",
+    "feed_url": "https://charleschetty.github.io/post/feed.json",
+    "description": "Charles Chetty 个人博客",
+    "items": [
+        {
+            "id": "https://charleschetty.github.io/post/posts/Untitled.html",
+            "url": "https://charleschetty.github.io/post/posts/Untitled.html",
+            "title": "Arch基本使用",
+            "summary": "Arch Linux + i3wm 基本环境配置",
+            "image": "https://raw.githubusercontent.com/charleschetty/picturebed/main/picture/20e6af89523e5d34.jpg",
+            "date_modified": "2022-07-23T00:00:00.000Z"
+        },
+        {
+            "id": "https://charleschetty.github.io/post/posts/shu.html",
+            "url": "https://charleschetty.github.io/post/posts/shu.html",
+            "title": "书籍记录",
+            "summary": "记录一下学习过程",
+            "date_modified": "2022-04-26T00:00:00.000Z"
+        },
+        {
+            "id": "https://charleschetty.github.io/post/posts/demo-markdowm.html",
+            "url": "https://charleschetty.github.io/post/posts/demo-markdowm.html",
+            "title": "基本环境配置",
+            "summary": "简单记录一下自己的日常学习娱乐环境",
+            "image": "https://raw.githubusercontent.com/charleschetty/picturebed/main/picture/Screenshot_20220331_224520.png",
+            "date_modified": "2022-03-31T00:00:00.000Z"
+        }
+    ]
+}
